@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "class": "fila primera",
+        "subclass1": "columna x2",
+        "p1": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae autem sapiente temporibus.",
+        "p2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        "subclass2": "columna",
+        "imgclass": "responsive",
+        "img": "'{imgrow1}'"
+    },
+    {
+        "id": 2,
+        "class": "fila ",
+        "p1": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae autem sapiente temporibus.",
+        "subclass2": "columna",
+        "imgclass": "responsive",
+        "img": "'{imgrow1}'"
+    },
+    {
+        "id": 3,
+        "class": "fila parallax",
+        "subclass1": "columna",
+        "p2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    },
+    {
+        "id": 4,
+        "class": "fila ",
+        "subclass1": "columna centrada",
+        "subsubclass1": "nav-box",
+        "imgSubSubClass": "img/comprar.svg",
+        "hrefSubSubClass": "ventas.html",
+        "textHrefSubSubClass": "Ventas",
+        "subclass2": "columna centrada",
+        "subsubclass2": "nav-box",
+        "srcImgSubSubClass2": "img/alquilar.svg",
+        "hrefSubSubClass2": "alquiler.html",
+        "textHrefSubSubClass2": "Alquiler"
+    },
+    {
+        "id": 5,
+        "class": "fila ",
+        "subclass1": "columna",
+        "imgclass": "responsive",
+        "img": "img/thumb2.jpg",
+        "subclass2": "columna",
+        "p1": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae autem sapiente temporibus."
+    },
+    {
+        "id": 5,
+        "class": "fila ",
+        "subclass1": "columna",
+        "p1": "Suscribase a nuestra newsletter para recibir todas las novedades del sector inmobiliario en Marbella",
+        "classForm": "fila",
+        "classInputForm": "columna derecha",
+        "typeImput": "email",
+        "placeholderInput": "Correo electronico",
+        "classButtomForm": "columna izquierda",
+        "typeButtom": "submit",
+        "textButtomForm": "Enviar"
+    }
+]

@@ -1,0 +1,115 @@
+/* .container-card {
+    width: 50%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+} */
+
+
+/* .Card {
+    /* border: solid #e9ecef; */
+
+
+/* border-width: 16px 8px 10px; */
+
+
+/* border-radius: 0.5em;
+    width: 200px;
+    height: 400px;
+    max-width: 90%;
+    background-color: aqua;
+    box-shadow: 2px 2px 4px blue;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-areas: "carrousel" " detail";
+} */
+
+
+/* calc(100% - 100xp) */
+
+
+/* .Card img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5em 0.5em 0em 0em;
+}
+
+.detail-card {
+    grid-area: detail;
+    padding: 8px 8px 8px 8px;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+}
+
+.detail-card h3 {
+    text-align: center;
+}
+
+.carrousel {
+    /* width: 100%; */
+
+
+/* grid-area: carrousel; */
+
+
+/* background-color: blue; */
+
+
+/* flex-grow: 0;
+    display: block;
+    flex-shrink: 0;
+    flex-basis: auto;
+    padding-bottom: 16px;
+}
+
+.carrousel img {
+    width: 100%;
+    height: 100%;
+} */
+
+
+/* .gkConten { */
+
+
+/* min-width: 220px; */
+
+
+/* width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.gk2 {
+    position: relative;
+    z-index: 0;
+    height: calc(100% - 104px);
+}
+
+.ctuCarrus {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    min-height: 160px;
+    border-radius: 8px;
+    overflow: hidden;
+    flex: 1 1 0%;
+     -webkit-mask 
+} */
+
+
+/* @media (min-width: 993px) {
+    .ehWeYou {
+        width: 50%;
+    }
+}  */
+
+
+/* 
+@media (min-width:780px) {
+    .ehWeYou {
+        width: 100%;
+    }
+} */
